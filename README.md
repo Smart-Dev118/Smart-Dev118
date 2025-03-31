@@ -1,7 +1,7 @@
 # Hello!🖐️ there My name is Hans Havlik
 
 [![GitHub Website](https://img.shields.io/badge/website-000000?style=flat-square&logo=About.me&logoColor=white)](https://github.com/platane/snk/releases/latest)
-[![GitHub Mobile](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/platane/snk/releases/latest)
+[![GitHub Mobile](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/platane/snk/releases/latest)
 [![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)]
 [![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
 ![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
