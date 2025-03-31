@@ -1,8 +1,6 @@
 # Hello!🖐️ there My name is Hans Havlik
 
-[![GitHub React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/platane/snk/releases/latest)
-[![Github Next](https://img.shields.io/badge/next%20js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://github.com/platane/snk/releases/latest)
-[![GitHub Node](https://img.shields.io/badge/Node%20js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://github.com/platane/snk/releases/latest)
+[![GitHub React](https://img.shields.io/badge/website-000000?style=flat-square&logo=About.me&logoColor=white)](https://github.com/platane/snk/releases/latest)
 [![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)]
 [![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
 ![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
