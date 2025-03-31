@@ -1,4 +1,4 @@
-# Hello! there My name is Hans Havlik
+# Hello there My name is Hans Havlik
 
 Generates a snake game from a github user contributions graph
 
