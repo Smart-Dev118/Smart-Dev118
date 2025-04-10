@@ -1,4 +1,4 @@
-# Hello!🖐️ there My name is Hans Havlik
+# Hello!🖐️ there!
 
 [![GitHub Website](https://img.shields.io/badge/website-000000?style=flat-square&logo=About.me&logoColor=white)](https://github.com/platane/snk/releases/latest)
 [![GitHub Mobile](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/platane/snk/releases/latest)
