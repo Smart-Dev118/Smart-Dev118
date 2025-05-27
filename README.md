@@ -1,7 +1,5 @@
 # Hello!🖐️ there!
 
-Generates a snake game from a github user contributions graph
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
