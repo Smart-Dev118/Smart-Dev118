@@ -10,3 +10,5 @@
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+I'm Hiroyuki Kazunaka, a senior web & Mobile Developer.
