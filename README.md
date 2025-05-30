@@ -11,4 +11,4 @@
   />
 </picture>
 
-I'm Hiroyuki Kazunaka, a senior web & Mobile Developer.
+I'm Hiroyuki Kazunaka, a Senior Web & Mobile Developer with real-world experience building high-performance, scalable applications across both web and mobile platforms. I specialize in full-stack development using JavaScript and TypeScript, working with frameworks like React, Next.js, and React Native to create modern, responsive user experiences. My stack of choice is often the MERN stack, and I use tools like Tailwind CSS to deliver clean, intuitive UIs.
